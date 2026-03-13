@@ -29,7 +29,7 @@ React.js • Redux • Zustand • AG Grid • Leaflet • Tailwind CSS • MUI 
 
 ⚙️ Backend
 
-Node.js • Express.js • REST APIs • Socket.IO • JWT • OAuth • SSO
+Node.js • Express.js • REST APIs • Socket.IO • JWT • OAuth • SSO • Redis • BullMQ
 
 🗄️ Databases
 
