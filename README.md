@@ -29,7 +29,7 @@ React.js • Redux • Zustand • AG Grid • Leaflet • Tailwind CSS • MUI 
 
 ⚙️ Backend
 
-Node.js • Express.js • REST APIs • Socket.IO • JWT • OAuth • SSO • Redis • BullMQ
+Node.js • Express.js • REST APIs • Socket.IO • JWT • OAuth • SSO • Redis • BullMQ • Supabase
 
 🗄️ Databases
 
@@ -37,7 +37,7 @@ PostgreSQL • MongoDB
 
 ☁️ Cloud & DevOps
 
-Google Cloud Platform • Docker • Git • GitLab • Render
+Google Cloud Platform • Docker • Git • GitLab • Render • Cloudflare
 
 🧪 Tools
 
